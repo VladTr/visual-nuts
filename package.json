@@ -1,0 +1,15 @@
+{
+  "name": "visual_nuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Vlad Trofimov",
+  "license": "ISC"
+}
